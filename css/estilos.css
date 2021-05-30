@@ -3,16 +3,11 @@ body
     color: #333;
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
-<<<<<<< HEAD
-=======
     font-size: 16px;
->>>>>>> header
     margin: 0;
     padding: 0;
 }
 
-<<<<<<< HEAD
-=======
 #header
 {
 background: #33a;
@@ -23,7 +18,6 @@ margin: 0;
 padding: 0.5em;
 }
 
->>>>>>> header
 #container
 {
     width: 70%;
