@@ -5,3 +5,5 @@ Son las 4 con 16 minutos por la tarde
 
 Esta linea es para probar el efecto de git reset HEAD.
 Esta linea es para probar el efecto de git reset SOFT, eliminare historial y este sera la nueva version.
+
+Nueva linea agregada por otro usuario, que clono el repositorio desde github.
